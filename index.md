@@ -188,5 +188,5 @@
     </div>
 </footer>
 <script src="ajax/libs/materialize/1-0-0/js/materialize.min.js"></script>
-<center><font size="2">This is the free demo result. For a full version of this website, please go to  <a href="https://www6.waybackmachinedownloader.com/website-downloader-online/scrape-all-files/">Website Downloader</a></font></center></body>
+</body>
 </html>
