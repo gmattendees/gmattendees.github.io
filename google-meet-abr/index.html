@@ -61,7 +61,11 @@
         }
         nav,
         .page-footer {
-            background-color: #5571dc;
+            background-color: #b8b8b8;
+            background: none;
+        }
+        .page-footer > * > * {
+            color: #333;
         }
         nav {
             background-color: #efefef;
@@ -173,16 +177,16 @@
             </div>
         </div>
     </div>
-</div>
-<footer class="page-footer initially-hidden">
-    <div class="footer-copyright">
-        <div class="container">
-            ©
-            <script>document.write(new Date().getFullYear())</script>
-            — Copyright Simone Marullo
+    <footer class="page-footer initially-hidden">
+        <div class="footer-copyright">
+            <div class="container">
+                ©
+                <script>document.write(new Date().getFullYear())</script>
+                — Copyright Simone Marullo
+            </div>
         </div>
-    </div>
-</footer>
+    </footer>
+</div>
 <script src="../ajax/libs/materialize/1-0-0/js/materialize.min.js"></script>
 </body>
 </html>
